@@ -20,9 +20,6 @@ python sample.py
 * --movie<br>
 動画ファイルの指定 ※指定時はカメラデバイスより優先<br>
 デフォルト：指定なし
-* --image<br>
-画像ファイルの指定 ※指定時はカメラデバイスや動画より優先<br>
-デフォルト：指定なし
 * --width<br>
 カメラキャプチャ時の横幅<br>
 デフォルト：960
@@ -32,7 +29,7 @@ python sample.py
 <details>
 <summary>YOLOXパラメータ</summary>
   
-* --model<br>
+* --yolox_model<br>
 ロードするモデルの格納パス<br>
 デフォルト：model/yolox_nano.onnx
 * --input_shape<br>
