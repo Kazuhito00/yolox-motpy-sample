@@ -8,6 +8,7 @@ https://user-images.githubusercontent.com/37477845/153742550-19c51648-f355-40e2-
 # Requirement 
 * OpenCV 3.4.2 or later
 * onnxruntime 1.5.2 or later
+* filterpy 1.4.5 or later 
 
 # Demo
 デモの実行方法は以下です。
